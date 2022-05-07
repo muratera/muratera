@@ -4,6 +4,7 @@ module.exports = class userInfo extends USER {
       constructor(client) {
       super(client,{
       name: "Murat",
+      surname: "Zeybek",
       age: "20",
       sex: "Male",
       born: "Turkey",
